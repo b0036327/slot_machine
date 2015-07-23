@@ -8,3 +8,5 @@ To play:
 - Type "ruby gamble.rb"
 
 The animation file does not run, it simply is used within gamble.rb
+
+Recommend you run this in a 125x65 Terminal Screen.
